@@ -1,0 +1,10 @@
+C:\Users\artem\source\repos\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\artem\source\repos\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\artem\source\repos\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\artem\source\repos\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\TaskManager\obj\Debug\TaskManager.Form1.resources
+C:\Users\artem\source\repos\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\artem\source\repos\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\artem\source\repos\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\artem\source\repos\TaskManager\obj\Debug\TaskManager.pdb
